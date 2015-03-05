@@ -1,0 +1,1 @@
+C:\Users\MobileLab10\Desktop\Factory Method\PrismaColor\PrismaColor\PrismaColor.csproj;neutral
